@@ -292,7 +292,7 @@ const Card = memo(function Card({
 
           {/* Specs */}
           <div className="rounded-2xl border border-slate-100 bg-slate-50/80 p-3">
-            <div className="mb-1 text-[10px] font-semibold uppercase tracking-widest text-slate-400">Specifications</div>
+            <div className="mb-1 text-[10px] font-semibold uppercase tracking-widest text-slate-400">Properties</div>
             <p className="text-sm leading-relaxed text-slate-600">{product.specs}</p>
           </div>
 
